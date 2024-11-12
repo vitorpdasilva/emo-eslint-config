@@ -1,2 +1,3 @@
-# emo-eslint-config
+# base-eslint-config
+
 Common ESlint configuration to be reused across projects
